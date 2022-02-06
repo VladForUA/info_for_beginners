@@ -1,0 +1,52 @@
+Flutter developer
+
+1.Ресурсы для первого этапа :
+
+Video Section {
+
+1.Full Dart - Tutorial for beginer(ENG)
+    https://www.youtube.com/watch?v=5xlVP04905w&t=8s 
+2.Full Dart - Tutorial for intermediate(ENG)
+    https://www.youtube.com/watch?v=5xlVP04905w&t=8s
+3. OOP concept (ENG)
+    https://www.youtube.com/watch?v=pTB0EiLXUC8 
+4. OOP Full - tutorial (ENG)
+    https://www.youtube.com/watch?v=SiBw7os-_zI    
+
+5. OOP concept (RU)
+    https://www.youtube.com/watch?v=9tSdumn-JqM
+
+5. OOP concept (RU)
+    https://www.youtube.com/watch?v=zME4SOCHT0I
+
+6. OOP Egor Bugaenko (RU)
+    https://www.youtube.com/watch?v=lfdAwl3-X_c    
+
+7. Dart/Flutter Tutorial for beginers (RU)
+    https://www.youtube.com/c/codeandartmain/playlists
+    Но сразу скажу что я этому контенту ставлю 3.5/5 ,
+    настоятельно рекомендую смотреть исключительно английский вариант
+
+8. Dart/Flutter for beginers tutorials ()
+    https://www.youtube.com/c/MADTeacherChannel/playlists
+    Но сразу скажу что я этому контенту ставлю 3.7/5 ,
+    настоятельно рекомендую смотреть исключительно английский вариант
+
+}
+
+
+Websites For Conspects {
+    1. https://metanit.com/dart/tutorial/ (RU)
+    2. https://dart.dev/guides/language/language-tour (ENG) - Очень важно уметь чиать документацию
+    3. https://dart.dev/guides/language/effective-dart (ENG)
+    4. https://www.tutorialspoint.com/dart_programming/index.htm (ENG) - аналог ментанита рекомендую писать конспекты на англе.
+    И этот сайт будет как раз кстати.
+}
+    
+
+
+Books {
+    https://cloud.mail.ru/public/HMbR/jYrbFFzaf (RU) - неплохая книга , подойдет для конспкета
+    а так же если совсем не понятны английские книги
+    https://vk.com/wall-54530371_332868 (ENG) - то же самое что и верхняя книга на на англе , формат книги epub
+}    
